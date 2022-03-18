@@ -1,0 +1,116 @@
+header {
+    background-color: #128c7e;
+    text-align: center;
+    
+}
+#tete  li,
+#tete a   {
+    text-decoration: none;
+    display: inline-flex; 
+    list-style: none;
+    color: blanchedalmond;
+}
+.front {
+    margin-left: 2em;
+    margin-top: 1em;
+     
+     
+   
+}
+.cheveux {
+    margin-right: 60em;
+    padding-left: 1em;
+    position: relative;
+    top: 22px;
+
+}
+#tete {
+    position: relative;
+    bottom: 40px;
+}
+.trons {
+padding-left: 20%;
+position: relative;
+top: 30px;
+}
+.trons img {
+     width: 2em; 
+     height: 2em; 
+    list-style: none;
+
+
+}
+.abdomen img {
+     width: 340px; 
+     height: 572px; 
+  margin-left: 50px;
+  margin-top: 15px; 
+
+}
+.tron1 {
+    display: flex;
+} 
+.jambe {
+    display: flex;
+    justify-content: space-between;
+
+}
+.ecranc {
+    width: 350px;
+    height: auto ;
+}
+.petitj {
+    background-color: #D8E8EA;
+    text-align: center;
+    width: 49%;
+    /* margin-left: 5px; */
+     /* padding-left: 15%;  */
+}
+.grandj {
+    background-color: #E7F0E4;
+    text-align: center;
+    width: 49%;
+     /* margin-left: 250px; */
+     /* padding-left: 10%;   */
+}
+ h4 {margin: auto;
+     margin-top: 80px; 
+     margin-bottom: 50px;
+    text-align: center;
+    color: #128c7e;
+    border-radius: 40px ;
+    border: 2px solid #128c7e ;
+     padding-bottom: 40px;
+    width: 360px;
+    height: 50px;
+    align-items: center;
+   
+    
+}
+
+.pied {
+    display: flex;
+    /* padding-left: 10px; */
+}
+.fin {
+    background-color: #273443;
+    color: white;
+     display: flex; 
+     justify-content: space-around;
+}
+.fin ul {
+    list-style: none;
+} 
+.end {
+    display: flex;
+    justify-content: space-around;
+    background-color: #1c1e21;
+    color: white;
+}
+
+
+
+
+
+
+
